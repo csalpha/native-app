@@ -11,3 +11,9 @@
    3. setup Tailwind CSS ( tailwind.config.js )
    4. add the babel plugin ( babel.config.js )
    5. add the TailwindProvider
+
+3. install and setup react native navigation
+
+   1. npm install @react-navigation/native
+   2. npx expo install react-native-screens react-native-safe-area-context
+   3. npm install @react-navigation/native-stack
