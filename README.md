@@ -17,3 +17,13 @@
    1. npm install @react-navigation/native
    2. npx expo install react-native-screens react-native-safe-area-context
    3. npm install @react-navigation/native-stack
+
+4. Create HomeScreen
+
+   1. npm i react-native-heroicons react-native-svg
+   2. build header
+   3. build search
+   4. build body section
+   5. build categories
+   6. build featured rows
+   7. build restaurant card
